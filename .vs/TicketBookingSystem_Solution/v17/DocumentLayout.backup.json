@@ -1,0 +1,320 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Adhishree\\source\\repos\\TicketBookingSystem_Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{290501DC-5F72-4C92-B3CB-E0732530DE4C}|TicketBookingSystem\\TicketBookingSystem.csproj|c:\\users\\adhishree\\source\\repos\\ticketbookingsystem_solution\\ticketbookingsystem\\util\\dbutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{290501DC-5F72-4C92-B3CB-E0732530DE4C}|TicketBookingSystem\\TicketBookingSystem.csproj|solutionrelative:ticketbookingsystem\\util\\dbutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{290501DC-5F72-4C92-B3CB-E0732530DE4C}|TicketBookingSystem\\TicketBookingSystem.csproj|c:\\users\\adhishree\\source\\repos\\ticketbookingsystem_solution\\ticketbookingsystem\\dao\\bookingsystemrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{290501DC-5F72-4C92-B3CB-E0732530DE4C}|TicketBookingSystem\\TicketBookingSystem.csproj|solutionrelative:ticketbookingsystem\\dao\\bookingsystemrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{290501DC-5F72-4C92-B3CB-E0732530DE4C}|TicketBookingSystem\\TicketBookingSystem.csproj|c:\\users\\adhishree\\source\\repos\\ticketbookingsystem_solution\\ticketbookingsystem\\dao\\ibookingsystemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{290501DC-5F72-4C92-B3CB-E0732530DE4C}|TicketBookingSystem\\TicketBookingSystem.csproj|solutionrelative:ticketbookingsystem\\dao\\ibookingsystemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{290501DC-5F72-4C92-B3CB-E0732530DE4C}|TicketBookingSystem\\TicketBookingSystem.csproj|c:\\users\\adhishree\\source\\repos\\ticketbookingsystem_solution\\ticketbookingsystem\\dao\\ibookingsystemserviceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{290501DC-5F72-4C92-B3CB-E0732530DE4C}|TicketBookingSystem\\TicketBookingSystem.csproj|solutionrelative:ticketbookingsystem\\dao\\ibookingsystemserviceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{290501DC-5F72-4C92-B3CB-E0732530DE4C}|TicketBookingSystem\\TicketBookingSystem.csproj|c:\\users\\adhishree\\source\\repos\\ticketbookingsystem_solution\\ticketbookingsystem\\main\\mains.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{290501DC-5F72-4C92-B3CB-E0732530DE4C}|TicketBookingSystem\\TicketBookingSystem.csproj|solutionrelative:ticketbookingsystem\\main\\mains.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{290501DC-5F72-4C92-B3CB-E0732530DE4C}|TicketBookingSystem\\TicketBookingSystem.csproj|c:\\users\\adhishree\\source\\repos\\ticketbookingsystem_solution\\ticketbookingsystem\\dao\\eventserviceproviderimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{290501DC-5F72-4C92-B3CB-E0732530DE4C}|TicketBookingSystem\\TicketBookingSystem.csproj|solutionrelative:ticketbookingsystem\\dao\\eventserviceproviderimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{290501DC-5F72-4C92-B3CB-E0732530DE4C}|TicketBookingSystem\\TicketBookingSystem.csproj|c:\\users\\adhishree\\source\\repos\\ticketbookingsystem_solution\\ticketbookingsystem\\main\\ticketbookingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{290501DC-5F72-4C92-B3CB-E0732530DE4C}|TicketBookingSystem\\TicketBookingSystem.csproj|solutionrelative:ticketbookingsystem\\main\\ticketbookingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{290501DC-5F72-4C92-B3CB-E0732530DE4C}|TicketBookingSystem\\TicketBookingSystem.csproj|c:\\users\\adhishree\\source\\repos\\ticketbookingsystem_solution\\ticketbookingsystem\\dao\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{290501DC-5F72-4C92-B3CB-E0732530DE4C}|TicketBookingSystem\\TicketBookingSystem.csproj|solutionrelative:ticketbookingsystem\\dao\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{290501DC-5F72-4C92-B3CB-E0732530DE4C}|TicketBookingSystem\\TicketBookingSystem.csproj|c:\\users\\adhishree\\source\\repos\\ticketbookingsystem_solution\\ticketbookingsystem\\exception\\customexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{290501DC-5F72-4C92-B3CB-E0732530DE4C}|TicketBookingSystem\\TicketBookingSystem.csproj|solutionrelative:ticketbookingsystem\\exception\\customexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{290501DC-5F72-4C92-B3CB-E0732530DE4C}|TicketBookingSystem\\TicketBookingSystem.csproj|c:\\users\\adhishree\\source\\repos\\ticketbookingsystem_solution\\ticketbookingsystem\\entity\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{290501DC-5F72-4C92-B3CB-E0732530DE4C}|TicketBookingSystem\\TicketBookingSystem.csproj|solutionrelative:ticketbookingsystem\\entity\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{290501DC-5F72-4C92-B3CB-E0732530DE4C}|TicketBookingSystem\\TicketBookingSystem.csproj|c:\\users\\adhishree\\source\\repos\\ticketbookingsystem_solution\\ticketbookingsystem\\entity\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{290501DC-5F72-4C92-B3CB-E0732530DE4C}|TicketBookingSystem\\TicketBookingSystem.csproj|solutionrelative:ticketbookingsystem\\entity\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{290501DC-5F72-4C92-B3CB-E0732530DE4C}|TicketBookingSystem\\TicketBookingSystem.csproj|c:\\users\\adhishree\\source\\repos\\ticketbookingsystem_solution\\ticketbookingsystem\\entity\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{290501DC-5F72-4C92-B3CB-E0732530DE4C}|TicketBookingSystem\\TicketBookingSystem.csproj|solutionrelative:ticketbookingsystem\\entity\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{290501DC-5F72-4C92-B3CB-E0732530DE4C}|TicketBookingSystem\\TicketBookingSystem.csproj|c:\\users\\adhishree\\source\\repos\\ticketbookingsystem_solution\\ticketbookingsystem\\entity\\eventabstract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{290501DC-5F72-4C92-B3CB-E0732530DE4C}|TicketBookingSystem\\TicketBookingSystem.csproj|solutionrelative:ticketbookingsystem\\entity\\eventabstract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{290501DC-5F72-4C92-B3CB-E0732530DE4C}|TicketBookingSystem\\TicketBookingSystem.csproj|c:\\users\\adhishree\\source\\repos\\ticketbookingsystem_solution\\ticketbookingsystem\\dao\\bookingabstract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{290501DC-5F72-4C92-B3CB-E0732530DE4C}|TicketBookingSystem\\TicketBookingSystem.csproj|solutionrelative:ticketbookingsystem\\dao\\bookingabstract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{290501DC-5F72-4C92-B3CB-E0732530DE4C}|TicketBookingSystem\\TicketBookingSystem.csproj|c:\\users\\adhishree\\source\\repos\\ticketbookingsystem_solution\\ticketbookingsystem\\entity\\sportsconcrete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{290501DC-5F72-4C92-B3CB-E0732530DE4C}|TicketBookingSystem\\TicketBookingSystem.csproj|solutionrelative:ticketbookingsystem\\entity\\sportsconcrete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{290501DC-5F72-4C92-B3CB-E0732530DE4C}|TicketBookingSystem\\TicketBookingSystem.csproj|c:\\users\\adhishree\\source\\repos\\ticketbookingsystem_solution\\ticketbookingsystem\\entity\\concertconcrete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{290501DC-5F72-4C92-B3CB-E0732530DE4C}|TicketBookingSystem\\TicketBookingSystem.csproj|solutionrelative:ticketbookingsystem\\entity\\concertconcrete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{290501DC-5F72-4C92-B3CB-E0732530DE4C}|TicketBookingSystem\\TicketBookingSystem.csproj|c:\\users\\adhishree\\source\\repos\\ticketbookingsystem_solution\\ticketbookingsystem\\entity\\movieconcrete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{290501DC-5F72-4C92-B3CB-E0732530DE4C}|TicketBookingSystem\\TicketBookingSystem.csproj|solutionrelative:ticketbookingsystem\\entity\\movieconcrete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{290501DC-5F72-4C92-B3CB-E0732530DE4C}|TicketBookingSystem\\TicketBookingSystem.csproj|c:\\users\\adhishree\\source\\repos\\ticketbookingsystem_solution\\ticketbookingsystem\\ticketbookingsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{290501DC-5F72-4C92-B3CB-E0732530DE4C}|TicketBookingSystem\\TicketBookingSystem.csproj|solutionrelative:ticketbookingsystem\\ticketbookingsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Adhishree\\source\\repos\\TicketBookingSystem_Solution\\TicketBookingSystem\\entity\\Customer.cs",
+              "RelativeDocumentMoniker": "TicketBookingSystem\\entity\\Customer.cs",
+              "ToolTip": "C:\\Users\\Adhishree\\source\\repos\\TicketBookingSystem_Solution\\TicketBookingSystem\\entity\\Customer.cs",
+              "RelativeToolTip": "TicketBookingSystem\\entity\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T06:20:49.458Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Adhishree\\source\\repos\\TicketBookingSystem_Solution\\TicketBookingSystem\\entity\\UserEntity.cs",
+              "RelativeDocumentMoniker": "TicketBookingSystem\\entity\\UserEntity.cs",
+              "ToolTip": "C:\\Users\\Adhishree\\source\\repos\\TicketBookingSystem_Solution\\TicketBookingSystem\\entity\\UserEntity.cs",
+              "RelativeToolTip": "TicketBookingSystem\\entity\\UserEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T14:59:48.56Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\Adhishree\\source\\repos\\TicketBookingSystem_Solution\\TicketBookingSystem\\entity\\Movie.cs",
+              "RelativeDocumentMoniker": "TicketBookingSystem\\entity\\Movie.cs",
+              "ToolTip": "C:\\Users\\Adhishree\\source\\repos\\TicketBookingSystem_Solution\\TicketBookingSystem\\entity\\Movie.cs",
+              "RelativeToolTip": "TicketBookingSystem\\entity\\Movie.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T06:28:13.32Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBUtil.cs",
+              "DocumentMoniker": "C:\\Users\\Adhishree\\source\\repos\\TicketBookingSystem_Solution\\TicketBookingSystem\\util\\DBUtil.cs",
+              "RelativeDocumentMoniker": "TicketBookingSystem\\util\\DBUtil.cs",
+              "ToolTip": "C:\\Users\\Adhishree\\source\\repos\\TicketBookingSystem_Solution\\TicketBookingSystem\\util\\DBUtil.cs",
+              "RelativeToolTip": "TicketBookingSystem\\util\\DBUtil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T07:23:12.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookingSystemRepositoryImpl.cs",
+              "DocumentMoniker": "C:\\Users\\Adhishree\\source\\repos\\TicketBookingSystem_Solution\\TicketBookingSystem\\dao\\BookingSystemRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "TicketBookingSystem\\dao\\BookingSystemRepositoryImpl.cs",
+              "ToolTip": "C:\\Users\\Adhishree\\source\\repos\\TicketBookingSystem_Solution\\TicketBookingSystem\\dao\\BookingSystemRepositoryImpl.cs",
+              "RelativeToolTip": "TicketBookingSystem\\dao\\BookingSystemRepositoryImpl.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T07:20:51.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBookingSystemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Adhishree\\source\\repos\\TicketBookingSystem_Solution\\TicketBookingSystem\\dao\\IBookingSystemRepository.cs",
+              "RelativeDocumentMoniker": "TicketBookingSystem\\dao\\IBookingSystemRepository.cs",
+              "ToolTip": "C:\\Users\\Adhishree\\source\\repos\\TicketBookingSystem_Solution\\TicketBookingSystem\\dao\\IBookingSystemRepository.cs",
+              "RelativeToolTip": "TicketBookingSystem\\dao\\IBookingSystemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T07:20:09.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBookingSystemServiceProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Adhishree\\source\\repos\\TicketBookingSystem_Solution\\TicketBookingSystem\\dao\\IBookingSystemServiceProvider.cs",
+              "RelativeDocumentMoniker": "TicketBookingSystem\\dao\\IBookingSystemServiceProvider.cs",
+              "ToolTip": "C:\\Users\\Adhishree\\source\\repos\\TicketBookingSystem_Solution\\TicketBookingSystem\\dao\\IBookingSystemServiceProvider.cs",
+              "RelativeToolTip": "TicketBookingSystem\\dao\\IBookingSystemServiceProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T15:24:43.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Mains.cs",
+              "DocumentMoniker": "C:\\Users\\Adhishree\\source\\repos\\TicketBookingSystem_Solution\\TicketBookingSystem\\main\\Mains.cs",
+              "RelativeDocumentMoniker": "TicketBookingSystem\\main\\Mains.cs",
+              "ToolTip": "C:\\Users\\Adhishree\\source\\repos\\TicketBookingSystem_Solution\\TicketBookingSystem\\main\\Mains.cs",
+              "RelativeToolTip": "TicketBookingSystem\\main\\Mains.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAewBYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T06:35:30.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EventServiceProviderImpl.cs",
+              "DocumentMoniker": "C:\\Users\\Adhishree\\source\\repos\\TicketBookingSystem_Solution\\TicketBookingSystem\\dao\\EventServiceProviderImpl.cs",
+              "RelativeDocumentMoniker": "TicketBookingSystem\\dao\\EventServiceProviderImpl.cs",
+              "ToolTip": "C:\\Users\\Adhishree\\source\\repos\\TicketBookingSystem_Solution\\TicketBookingSystem\\dao\\EventServiceProviderImpl.cs",
+              "RelativeToolTip": "TicketBookingSystem\\dao\\EventServiceProviderImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T07:04:19.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\Adhishree\\source\\repos\\TicketBookingSystem_Solution\\TicketBookingSystem\\dao\\Booking.cs",
+              "RelativeDocumentMoniker": "TicketBookingSystem\\dao\\Booking.cs",
+              "ToolTip": "C:\\Users\\Adhishree\\source\\repos\\TicketBookingSystem_Solution\\TicketBookingSystem\\dao\\Booking.cs",
+              "RelativeToolTip": "TicketBookingSystem\\dao\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T06:21:41.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TicketBookingSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Adhishree\\source\\repos\\TicketBookingSystem_Solution\\TicketBookingSystem\\main\\TicketBookingSystem.cs",
+              "RelativeDocumentMoniker": "TicketBookingSystem\\main\\TicketBookingSystem.cs",
+              "ToolTip": "C:\\Users\\Adhishree\\source\\repos\\TicketBookingSystem_Solution\\TicketBookingSystem\\main\\TicketBookingSystem.cs",
+              "RelativeToolTip": "TicketBookingSystem\\main\\TicketBookingSystem.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwA0AAAAHAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T06:41:27.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomException.cs",
+              "DocumentMoniker": "C:\\Users\\Adhishree\\source\\repos\\TicketBookingSystem_Solution\\TicketBookingSystem\\exception\\CustomException.cs",
+              "RelativeDocumentMoniker": "TicketBookingSystem\\exception\\CustomException.cs",
+              "ToolTip": "C:\\Users\\Adhishree\\source\\repos\\TicketBookingSystem_Solution\\TicketBookingSystem\\exception\\CustomException.cs",
+              "RelativeToolTip": "TicketBookingSystem\\exception\\CustomException.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T06:18:18.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EventAbstract.cs",
+              "DocumentMoniker": "C:\\Users\\Adhishree\\source\\repos\\TicketBookingSystem_Solution\\TicketBookingSystem\\entity\\EventAbstract.cs",
+              "RelativeDocumentMoniker": "TicketBookingSystem\\entity\\EventAbstract.cs",
+              "ToolTip": "C:\\Users\\Adhishree\\source\\repos\\TicketBookingSystem_Solution\\TicketBookingSystem\\entity\\EventAbstract.cs",
+              "RelativeToolTip": "TicketBookingSystem\\entity\\EventAbstract.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T07:01:08.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BookingAbstract.cs",
+              "DocumentMoniker": "C:\\Users\\Adhishree\\source\\repos\\TicketBookingSystem_Solution\\TicketBookingSystem\\dao\\BookingAbstract.cs",
+              "RelativeDocumentMoniker": "TicketBookingSystem\\dao\\BookingAbstract.cs",
+              "ToolTip": "C:\\Users\\Adhishree\\source\\repos\\TicketBookingSystem_Solution\\TicketBookingSystem\\dao\\BookingAbstract.cs",
+              "RelativeToolTip": "TicketBookingSystem\\dao\\BookingAbstract.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T07:15:04.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SportsConcrete.cs",
+              "DocumentMoniker": "C:\\Users\\Adhishree\\source\\repos\\TicketBookingSystem_Solution\\TicketBookingSystem\\entity\\SportsConcrete.cs",
+              "RelativeDocumentMoniker": "TicketBookingSystem\\entity\\SportsConcrete.cs",
+              "ToolTip": "C:\\Users\\Adhishree\\source\\repos\\TicketBookingSystem_Solution\\TicketBookingSystem\\entity\\SportsConcrete.cs",
+              "RelativeToolTip": "TicketBookingSystem\\entity\\SportsConcrete.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T07:08:16.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ConcertConcrete.cs",
+              "DocumentMoniker": "C:\\Users\\Adhishree\\source\\repos\\TicketBookingSystem_Solution\\TicketBookingSystem\\entity\\ConcertConcrete.cs",
+              "RelativeDocumentMoniker": "TicketBookingSystem\\entity\\ConcertConcrete.cs",
+              "ToolTip": "C:\\Users\\Adhishree\\source\\repos\\TicketBookingSystem_Solution\\TicketBookingSystem\\entity\\ConcertConcrete.cs",
+              "RelativeToolTip": "TicketBookingSystem\\entity\\ConcertConcrete.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T07:04:58.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MovieConcrete.cs",
+              "DocumentMoniker": "C:\\Users\\Adhishree\\source\\repos\\TicketBookingSystem_Solution\\TicketBookingSystem\\entity\\MovieConcrete.cs",
+              "RelativeDocumentMoniker": "TicketBookingSystem\\entity\\MovieConcrete.cs",
+              "ToolTip": "C:\\Users\\Adhishree\\source\\repos\\TicketBookingSystem_Solution\\TicketBookingSystem\\entity\\MovieConcrete.cs",
+              "RelativeToolTip": "TicketBookingSystem\\entity\\MovieConcrete.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA4wAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T07:03:34.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TicketBookingSystem.csproj",
+              "DocumentMoniker": "C:\\Users\\Adhishree\\source\\repos\\TicketBookingSystem_Solution\\TicketBookingSystem\\TicketBookingSystem.csproj",
+              "RelativeDocumentMoniker": "TicketBookingSystem\\TicketBookingSystem.csproj",
+              "ToolTip": "C:\\Users\\Adhishree\\source\\repos\\TicketBookingSystem_Solution\\TicketBookingSystem\\TicketBookingSystem.csproj",
+              "RelativeToolTip": "TicketBookingSystem\\TicketBookingSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-07T14:55:30.709Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

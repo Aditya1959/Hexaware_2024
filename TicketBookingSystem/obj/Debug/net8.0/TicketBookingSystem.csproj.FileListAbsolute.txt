@@ -1,0 +1,4 @@
+C:\Users\Adhishree\source\repos\TicketBookingSystem_Solution\TicketBookingSystem\obj\Debug\net8.0\TicketBookingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adhishree\source\repos\TicketBookingSystem_Solution\TicketBookingSystem\obj\Debug\net8.0\TicketBookingSystem.AssemblyInfoInputs.cache
+C:\Users\Adhishree\source\repos\TicketBookingSystem_Solution\TicketBookingSystem\obj\Debug\net8.0\TicketBookingSystem.AssemblyInfo.cs
+C:\Users\Adhishree\source\repos\TicketBookingSystem_Solution\TicketBookingSystem\obj\Debug\net8.0\TicketBookingSystem.csproj.CoreCompileInputs.cache
