@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aditya\\source\\repos\\ProjectManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1715EBDF-C077-4636-A29F-43F36F122F33}|ProjectManagement\\ProjectManagementApp.csproj|c:\\users\\aditya\\source\\repos\\projectmanagement\\projectmanagement\\main\\mainmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1715EBDF-C077-4636-A29F-43F36F122F33}|ProjectManagement\\ProjectManagementApp.csproj|solutionrelative:projectmanagement\\main\\mainmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1715EBDF-C077-4636-A29F-43F36F122F33}|ProjectManagement\\ProjectManagementApp.csproj|c:\\users\\aditya\\source\\repos\\projectmanagement\\projectmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1715EBDF-C077-4636-A29F-43F36F122F33}|ProjectManagement\\ProjectManagementApp.csproj|solutionrelative:projectmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1715EBDF-C077-4636-A29F-43F36F122F33}|ProjectManagement\\ProjectManagementApp.csproj|c:\\users\\aditya\\source\\repos\\projectmanagement\\projectmanagement\\util\\dbconnutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1715EBDF-C077-4636-A29F-43F36F122F33}|ProjectManagement\\ProjectManagementApp.csproj|solutionrelative:projectmanagement\\util\\dbconnutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1715EBDF-C077-4636-A29F-43F36F122F33}|ProjectManagement\\ProjectManagementApp.csproj|c:\\users\\aditya\\source\\repos\\projectmanagement\\projectmanagement\\util\\dbpropertyutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1715EBDF-C077-4636-A29F-43F36F122F33}|ProjectManagement\\ProjectManagementApp.csproj|solutionrelative:projectmanagement\\util\\dbpropertyutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1715EBDF-C077-4636-A29F-43F36F122F33}|ProjectManagement\\ProjectManagementApp.csproj|c:\\users\\aditya\\source\\repos\\projectmanagement\\projectmanagement\\projectmanagementapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1715EBDF-C077-4636-A29F-43F36F122F33}|ProjectManagement\\ProjectManagementApp.csproj|solutionrelative:projectmanagement\\projectmanagementapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1715EBDF-C077-4636-A29F-43F36F122F33}|ProjectManagement\\ProjectManagementApp.csproj|c:\\users\\aditya\\source\\repos\\projectmanagement\\projectmanagement\\dao\\projectrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1715EBDF-C077-4636-A29F-43F36F122F33}|ProjectManagement\\ProjectManagementApp.csproj|solutionrelative:projectmanagement\\dao\\projectrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1715EBDF-C077-4636-A29F-43F36F122F33}|ProjectManagement\\ProjectManagementApp.csproj|c:\\users\\aditya\\source\\repos\\projectmanagement\\projectmanagement\\tests\\projectmanagementtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1715EBDF-C077-4636-A29F-43F36F122F33}|ProjectManagement\\ProjectManagementApp.csproj|solutionrelative:projectmanagement\\tests\\projectmanagementtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1715EBDF-C077-4636-A29F-43F36F122F33}|ProjectManagement\\ProjectManagementApp.csproj|c:\\users\\aditya\\source\\repos\\projectmanagement\\projectmanagement\\entity\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1715EBDF-C077-4636-A29F-43F36F122F33}|ProjectManagement\\ProjectManagementApp.csproj|solutionrelative:projectmanagement\\entity\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1715EBDF-C077-4636-A29F-43F36F122F33}|ProjectManagement\\ProjectManagementApp.csproj|c:\\users\\aditya\\source\\repos\\projectmanagement\\projectmanagement\\entity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1715EBDF-C077-4636-A29F-43F36F122F33}|ProjectManagement\\ProjectManagementApp.csproj|solutionrelative:projectmanagement\\entity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1715EBDF-C077-4636-A29F-43F36F122F33}|ProjectManagement\\ProjectManagementApp.csproj|c:\\users\\aditya\\source\\repos\\projectmanagement\\projectmanagement\\dao\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1715EBDF-C077-4636-A29F-43F36F122F33}|ProjectManagement\\ProjectManagementApp.csproj|solutionrelative:projectmanagement\\dao\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1715EBDF-C077-4636-A29F-43F36F122F33}|ProjectManagement\\ProjectManagementApp.csproj|c:\\users\\aditya\\source\\repos\\projectmanagement\\projectmanagement\\entity\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1715EBDF-C077-4636-A29F-43F36F122F33}|ProjectManagement\\ProjectManagementApp.csproj|solutionrelative:projectmanagement\\entity\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1715EBDF-C077-4636-A29F-43F36F122F33}|ProjectManagement\\ProjectManagementApp.csproj|c:\\users\\aditya\\source\\repos\\projectmanagement\\projectmanagement\\exception\\projectnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1715EBDF-C077-4636-A29F-43F36F122F33}|ProjectManagement\\ProjectManagementApp.csproj|solutionrelative:projectmanagement\\exception\\projectnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1715EBDF-C077-4636-A29F-43F36F122F33}|ProjectManagement\\ProjectManagementApp.csproj|c:\\users\\aditya\\source\\repos\\projectmanagement\\projectmanagement\\exception\\employeenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1715EBDF-C077-4636-A29F-43F36F122F33}|ProjectManagement\\ProjectManagementApp.csproj|solutionrelative:projectmanagement\\exception\\employeenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Aditya\\source\\repos\\ProjectManagement\\ProjectManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "ProjectManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\Aditya\\source\\repos\\ProjectManagement\\ProjectManagement\\appsettings.json",
+              "RelativeToolTip": "ProjectManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-15T11:20:18.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProjectManagementTests.cs",
+              "DocumentMoniker": "C:\\Users\\Aditya\\source\\repos\\ProjectManagement\\ProjectManagement\\tests\\ProjectManagementTests.cs",
+              "RelativeDocumentMoniker": "ProjectManagement\\tests\\ProjectManagementTests.cs",
+              "ToolTip": "C:\\Users\\Aditya\\source\\repos\\ProjectManagement\\ProjectManagement\\tests\\ProjectManagementTests.cs",
+              "RelativeToolTip": "ProjectManagement\\tests\\ProjectManagementTests.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwCIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T10:32:25.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainModule.cs",
+              "DocumentMoniker": "C:\\Users\\Aditya\\source\\repos\\ProjectManagement\\ProjectManagement\\main\\MainModule.cs",
+              "RelativeDocumentMoniker": "ProjectManagement\\main\\MainModule.cs",
+              "ToolTip": "C:\\Users\\Aditya\\source\\repos\\ProjectManagement\\ProjectManagement\\main\\MainModule.cs",
+              "RelativeToolTip": "ProjectManagement\\main\\MainModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T10:32:02.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProjectRepositoryImpl.cs",
+              "DocumentMoniker": "C:\\Users\\Aditya\\source\\repos\\ProjectManagement\\ProjectManagement\\dao\\ProjectRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "ProjectManagement\\dao\\ProjectRepositoryImpl.cs",
+              "ToolTip": "C:\\Users\\Aditya\\source\\repos\\ProjectManagement\\ProjectManagement\\dao\\ProjectRepositoryImpl.cs",
+              "RelativeToolTip": "ProjectManagement\\dao\\ProjectRepositoryImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T10:29:24.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\Aditya\\source\\repos\\ProjectManagement\\ProjectManagement\\entity\\Project.cs",
+              "RelativeDocumentMoniker": "ProjectManagement\\entity\\Project.cs",
+              "ToolTip": "C:\\Users\\Aditya\\source\\repos\\ProjectManagement\\ProjectManagement\\entity\\Project.cs",
+              "RelativeToolTip": "ProjectManagement\\entity\\Project.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T10:29:50.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DBConnUtil.cs",
+              "DocumentMoniker": "C:\\Users\\Aditya\\source\\repos\\ProjectManagement\\ProjectManagement\\util\\DBConnUtil.cs",
+              "RelativeDocumentMoniker": "ProjectManagement\\util\\DBConnUtil.cs",
+              "ToolTip": "C:\\Users\\Aditya\\source\\repos\\ProjectManagement\\ProjectManagement\\util\\DBConnUtil.cs",
+              "RelativeToolTip": "ProjectManagement\\util\\DBConnUtil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T10:31:40.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DBPropertyUtil.cs",
+              "DocumentMoniker": "C:\\Users\\Aditya\\source\\repos\\ProjectManagement\\ProjectManagement\\util\\DBPropertyUtil.cs",
+              "RelativeDocumentMoniker": "ProjectManagement\\util\\DBPropertyUtil.cs",
+              "ToolTip": "C:\\Users\\Aditya\\source\\repos\\ProjectManagement\\ProjectManagement\\util\\DBPropertyUtil.cs",
+              "RelativeToolTip": "ProjectManagement\\util\\DBPropertyUtil.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAWwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T10:31:19.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProjectManagementApp.csproj",
+              "DocumentMoniker": "C:\\Users\\Aditya\\source\\repos\\ProjectManagement\\ProjectManagement\\ProjectManagementApp.csproj",
+              "RelativeDocumentMoniker": "ProjectManagement\\ProjectManagementApp.csproj",
+              "ToolTip": "C:\\Users\\Aditya\\source\\repos\\ProjectManagement\\ProjectManagement\\ProjectManagementApp.csproj",
+              "RelativeToolTip": "ProjectManagement\\ProjectManagementApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-15T10:25:59.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Aditya\\source\\repos\\ProjectManagement\\ProjectManagement\\entity\\Employee.cs",
+              "RelativeDocumentMoniker": "ProjectManagement\\entity\\Employee.cs",
+              "ToolTip": "C:\\Users\\Aditya\\source\\repos\\ProjectManagement\\ProjectManagement\\entity\\Employee.cs",
+              "RelativeToolTip": "ProjectManagement\\entity\\Employee.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T10:29:40.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IProjectRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aditya\\source\\repos\\ProjectManagement\\ProjectManagement\\dao\\IProjectRepository.cs",
+              "RelativeDocumentMoniker": "ProjectManagement\\dao\\IProjectRepository.cs",
+              "ToolTip": "C:\\Users\\Aditya\\source\\repos\\ProjectManagement\\ProjectManagement\\dao\\IProjectRepository.cs",
+              "RelativeToolTip": "ProjectManagement\\dao\\IProjectRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T10:27:49.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\Aditya\\source\\repos\\ProjectManagement\\ProjectManagement\\entity\\Task.cs",
+              "RelativeDocumentMoniker": "ProjectManagement\\entity\\Task.cs",
+              "ToolTip": "C:\\Users\\Aditya\\source\\repos\\ProjectManagement\\ProjectManagement\\entity\\Task.cs",
+              "RelativeToolTip": "ProjectManagement\\entity\\Task.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T10:29:59.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProjectNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Aditya\\source\\repos\\ProjectManagement\\ProjectManagement\\exception\\ProjectNotFoundException.cs",
+              "RelativeDocumentMoniker": "ProjectManagement\\exception\\ProjectNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Aditya\\source\\repos\\ProjectManagement\\ProjectManagement\\exception\\ProjectNotFoundException.cs",
+              "RelativeToolTip": "ProjectManagement\\exception\\ProjectNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T10:30:47.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeeNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Aditya\\source\\repos\\ProjectManagement\\ProjectManagement\\exception\\EmployeeNotFoundException.cs",
+              "RelativeDocumentMoniker": "ProjectManagement\\exception\\EmployeeNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Aditya\\source\\repos\\ProjectManagement\\ProjectManagement\\exception\\EmployeeNotFoundException.cs",
+              "RelativeToolTip": "ProjectManagement\\exception\\EmployeeNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T10:30:24.246Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
